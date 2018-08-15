@@ -26,6 +26,6 @@ html {
 }
 @media only screen and (min-width: 1220px) {
   #dolphin{
-    left: 600px;
+    right: 100px;
   }
 }
